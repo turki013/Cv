@@ -1,3 +1,25 @@
+name: Build ATS Resume
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Typst
+        uses: typst-community/setup-typst@v2
+
+      - name: Compile PDF
+        run: typst compile resume.typ resume.pdf
+
       - name: Create Release and Upload PDF
         uses: softprops/action-gh-release@v2
         with:
