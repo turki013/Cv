@@ -1,0 +1,10 @@
+      - name: Create Release and Upload PDF
+        uses: softprops/action-gh-release@v2
+        with:
+          files: resume.pdf
+          tag_name: ${{ github.ref_name }}
+          name: Resume Release ${{ github.ref_name }}
+          body: |
+            التحديث الجديد للسيرة الذاتية جاهز للتحميل!
+          draft: false
+          prerelease: false
