@@ -7,7 +7,7 @@
   #v(0.3em)
   #text(size: 9pt)[
     Riyadh, Saudi Arabia | 0550494319 | #link("mailto:turki.n.almutairi@outlook.com")[turki.n.almutairi\@outlook.com] \
-    #link("https://github.com")[GitHub] | #link("https://linkedin.com")[LinkedIn] | Portfolio
+    #link("https://github.com")[GitHub] | #link("https://linkedin.com")[LinkedIn] | #link("https://turki013.github.io/Portfolio-web/")[Portfolio]
   ]
 ]
 
