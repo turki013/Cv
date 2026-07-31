@@ -6,10 +6,11 @@
   #text(size: 18pt, weight: "bold")[Turki Nasser Almutairi] \
   #v(0.3em)
   #text(size: 9pt)[
-    Riyadh, Saudi Arabia | 0550494319 | #link("mailto:turki.n.almutairi@outlook.com")[turki.n.almutairi@outlook.com] \
-    #link("https://github.com")[GitHub] | #link("https://www.linkedin.com/in/turki-al-mutairi-1486b3244")[LinkedIn] | #link("https://turki013.github.io/Portfolio-web/")[Portfolio]
+    Riyadh, Saudi Arabia | 0550494319 | #link("mailto:turki.n.almutairi@outlook.com")[turki.n.almutairi\@outlook.com] \
+    #link("https://github.com")[GitHub] | #link("https://linkedin.com")[LinkedIn] | Portfolio
   ]
 ]
+
 
 #v(0.8em)
 
