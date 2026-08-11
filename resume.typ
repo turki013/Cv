@@ -35,7 +35,7 @@ Riyadh, Saudi Arabia
 #text(weight: "bold", size: 11pt)[SKILLS]
 #v(-0.4em)
 #line(length: 100%, stroke: 0.5pt + gray)
-- *Core:* Data Analysis, Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI)
+- *Core:* Data Science, Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI)
 - *Languages & Libraries:* Python, Java, Pandas, NumPy, Matplotlib
 - *Tools & Platforms:* Git & GitHub, Power BI, Excel, Data Visualization
 
@@ -66,6 +66,8 @@ Riyadh, Saudi Arabia
 
 *E-Commerce Sales Insights* #h(1fr) 2026 \
 - E-commerce sales data analysis project focused on transactional data exploration and insights generation.
+#link (https://github.com/turki013/House_Price_Predict)[*House Price Predict*] #h(1fr) 06/2026 -- 08/2026 \
+- An interactive machine learning model that accurately predicts residential real estate prices based on structural specifications, with a focus on hyperparameter tuning to achieve optimal performance.
 
 #v(0.8em)
 
