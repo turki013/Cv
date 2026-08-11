@@ -46,27 +46,28 @@ Riyadh, Saudi Arabia
 #v(-0.4em)
 #line(length: 100%, stroke: 0.5pt + gray)
 
-*Real vs AI Generated* #h(1fr) 05/2025 -- Present \
+#link(https://github.com/turki013/Real-vs-AI-Generated)[*Real vs AI Generated*] #h(1fr) 05/2025 -- Present \
 - Simple Python app that visualizes celebrity tweet data, comparing real tweets to AI-generated ones using charts. Built with Pandas and Matplotlib.
 
-*Electric Car Sales Insights* #h(1fr) 05/2025 -- Present \
+#link(https://github.com/turki013/Electric-car-sales)[*Electric Car Sales Insights*] #h(1fr) 05/2025 -- Present \
 - Command-line Python application designed to visualize EV data through bar charts, stacked bar charts, and scatter plots using an interactive menu.
 
-*Google Stock Analysis by Year* #h(1fr) 05/2025 -- Present \
+#link(https://github.com/turki013/Google-stock-by-year)[*Google Stock Analysis by Year*] #h(1fr) 05/2025 -- Present \
 - Explores daily stock prices of Google (2004--Present) to visualize volume evolution year-by-year using Pandas and Matplotlib.
 
 *Portfolio Website* #h(1fr) 03/2025 -- Present \
 - Personal portfolio showcasing projects, resume, and contact details. Built with HTML and CSS for responsive design.
 
-*GPA Calculator (SEU)* #h(1fr) 2025 -- 2026 \
+#link(https://github.com/fxrg/GPA-SEU)[*GPA Calculator (SEU)*] #h(1fr) 2025 -- 2026 \
 - Web platform for calculating semester and cumulative GPA tailored to Saudi Electronic University's grading system.
 
-*Subject Search Platform* #h(1fr) 06/2025 -- 2026 \
+#link(https://github.com/fxrg/subject-search-)[*Subject Search Platform*] #h(1fr) 06/2025 -- 2026 \
 - Interactive academic platform for SEU students to discover majors, explore courses, and share knowledge.
 
-*E-Commerce Sales Insights* #h(1fr) 2026 \
+#link(https://github.com/turki013/E-Commerce-Sales-Insights)[*E-Commerce Sales Insights*] #h(1fr) 2026 \
 - E-commerce sales data analysis project focused on transactional data exploration and insights generation.
-#link (https://github.com/turki013/House_Price_Predict)[*House Price Predict*] #h(1fr) 06/2026 -- 08/2026 \
+
+#link(https://github.com/turki013/House_Price_Predict)[*House Price Predict*] #h(1fr) 06/2026 -- 08/2026 \
 - An interactive machine learning model that accurately predicts residential real estate prices based on structural specifications, with a focus on hyperparameter tuning to achieve optimal performance.
 
 #v(0.8em)
