@@ -91,8 +91,9 @@ Riyadh, Saudi Arabia
 #text(weight: "bold", size: 11pt)[ORGANISATIONS]
 #v(-0.4em)
 #line(length: 100%, stroke: 0.5pt + gray)
-*ALAI Club* --- Member #h(1fr) 2024 -- Present
-- Active member of a student-led initiative aiming to advance Artificial Intelligence, foster innovation, and support digital transformation in Saudi Arabia (Vision 2030).
+- *ALAI Club* --- Member #h(1fr) 2024 -- Present
+  Active member of a student-led initiative aiming to advance Artificial Intelligence, foster innovation, and support digital transformation in Saudi Arabia (Vision 2030).
+
 #v(0.8em)
 
 // Languages Section
