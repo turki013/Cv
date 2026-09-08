@@ -18,7 +18,7 @@
 #text(weight: "bold", size: 11pt)[PROFILE]
 #v(-0.4em)
 #line(length: 100%, stroke: 0.5pt + gray)
-Data Science & AI student at Saudi Electronic University (SEU) with strong programming skills in Python and Java. Passionate about machine learning, AI, and data analysis with experience in data visualization using Power BI, Excel, and Python libraries. Demonstrated ability to solve complex problems, build efficient systems, and leverage data-driven insights to create impactful solutions.
+Data Science student at Saudi Electronic University (SEU) with strong programming skills in Python. Passionate about machine learning, NLP, and data analysis with experience in building end-to-end data pipelines, deploying local LLMs, and creating interactive Power BI dashboards. Demonstrated ability to translate raw data into actionable insights and robust technical solutions.
 
 #v(0.8em)
 
@@ -31,13 +31,26 @@ Riyadh, Saudi Arabia
 
 #v(0.8em)
 
+// Experience Section
+#text(weight: "bold", size: 11pt)[EXPERIENCE]
+#v(-0.4em)
+#line(length: 100%, stroke: 0.5pt + gray)
+*Data Science Intern* | Ministry of Islamic Affairs, Dawah and Guidance #h(1fr) 06/2026 -- 08/2026 \
+_General Department of Information Technology_ #h(1fr) Riyadh, Saudi Arabia
+- Preprocessed, cleaned, and validated complex datasets using Python (Pandas, NumPy) and engineered features for operational reporting.
+- Designed and delivered interactive Power BI dashboards to visualize regional performance metrics and business distributions.
+- Configured and deployed on-premise localized LLM agents via Ollama for secure, private domain query processing.
+- Implemented an Arabic NLP sentiment analysis pipeline using PyTorch and Hugging Face transformers, automating Excel evaluation exports.
+
+#v(0.8em)
+
 // Skills Section
 #text(weight: "bold", size: 11pt)[SKILLS]
 #v(-0.4em)
 #line(length: 100%, stroke: 0.5pt + gray)
-- *Core:* Data Science, Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI)
-- *Languages & Libraries:* Python, Java, Pandas, NumPy, Matplotlib
-- *Tools & Platforms:* Git & GitHub, Power BI, Excel, Data Visualization
+- *Core:* Data Science, Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP)
+- *Languages & Libraries:* Python, Pandas, NumPy, Matplotlib, PyTorch, Hugging Face Transformers
+- *Tools & Platforms:* Power BI, Git & GitHub, Ollama, VS Code, Excel
 
 #v(0.8em)
 
@@ -46,17 +59,20 @@ Riyadh, Saudi Arabia
 #v(-0.4em)
 #line(length: 100%, stroke: 0.5pt + gray)
 
-#link("https://github.com/turki013/Real-vs-AI-Generated")[*Real vs AI Generated*] #h(1fr) 05/2025 -- Present \
-- Simple Python app that visualizes celebrity tweet data, comparing real tweets to AI-generated ones using charts. Built with Pandas and Matplotlib.
+#link("https://github.com/turki013/House_Price_Predict")[*House Price Predict*] #h(1fr) 06/2026 -- 08/2026 \
+- An interactive machine learning model that accurately predicts residential real estate prices based on structural specifications, with hyperparameter tuning to achieve optimal performance.
 
-#link("https://github.com/turki013/Electric-car-sales")[*Electric Car Sales Insights*] #h(1fr) 05/2025 -- Present \
-- Command-line Python application designed to visualize EV data through bar charts, stacked bar charts, and scatter plots using an interactive menu.
+#link("https://github.com/turki013/E-Commerce-Sales-Insights")[*E-Commerce Sales Insights*] #h(1fr) 2026 \
+- E-commerce sales data analysis project focused on transactional data exploration, feature engineering, and actionable business insights.
+
+#link("https://github.com/turki013/Real-vs-AI-Generated")[*Real vs AI Generated*] #h(1fr) 05/2025 -- Present \
+- Python application that visualizes celebrity tweet data, comparing real tweets to AI-generated ones using Pandas and Matplotlib.
 
 #link("https://github.com/turki013/Google-stock-by-year")[*Google Stock Analysis by Year*] #h(1fr) 05/2025 -- Present \
 - Explores daily stock prices of Google (2004--Present) to visualize volume evolution year-by-year using Pandas and Matplotlib.
 
-*Portfolio Website* #h(1fr) 03/2025 -- Present \
-- Personal portfolio showcasing projects, resume, and contact details. Built with HTML and CSS for responsive design.
+#link("https://github.com/turki013/Electric-car-sales")[*Electric Car Sales Insights*] #h(1fr) 05/2025 -- Present \
+- Command-line Python application designed to visualize EV data through bar charts, stacked bar charts, and scatter plots.
 
 #link("https://github.com/fxrg/GPA-SEU")[*GPA Calculator (SEU)*] #h(1fr) 2025 -- 2026 \
 - Web platform for calculating semester and cumulative GPA tailored to Saudi Electronic University's grading system.
@@ -64,11 +80,8 @@ Riyadh, Saudi Arabia
 #link("https://github.com/fxrg/subject-search-")[*Subject Search Platform*] #h(1fr) 06/2025 -- 2026 \
 - Interactive academic platform for SEU students to discover majors, explore courses, and share knowledge.
 
-#link("https://github.com/turki013/E-Commerce-Sales-Insights")[*E-Commerce Sales Insights*] #h(1fr) 2026 \
-- E-commerce sales data analysis project focused on transactional data exploration and insights generation.
-
-#link("https://github.com/turki013/House_Price_Predict")[*House Price Predict*] #h(1fr) 06/2026 -- 08/2026 \
-- An interactive machine learning model that accurately predicts residential real estate prices based on structural specifications, with a focus on hyperparameter tuning to achieve optimal performance.
+*Portfolio Website* #h(1fr) 03/2025 -- Present \
+- Personal portfolio showcasing projects, resume, and contact details built with responsive HTML and CSS.
 
 #v(0.8em)
 
