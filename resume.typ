@@ -41,6 +41,7 @@ _General Department of Information Technology_ #h(1fr) Riyadh, Saudi Arabia
 - Designed and delivered interactive Power BI dashboards to visualize regional performance metrics and business distributions.
 - Configured and deployed on-premise localized LLM agents via Ollama for secure, private domain query processing.
 - Implemented an Arabic NLP sentiment analysis pipeline using PyTorch and Hugging Face transformers, automating Excel evaluation exports.
+- Authored comprehensive technical documentation (README.md) covering environment setups, project dependencies, and architecture workflows.
 
 #v(0.8em)
 
